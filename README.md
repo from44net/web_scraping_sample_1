@@ -7,8 +7,9 @@ Chromeを操作してログイン
 抽出したデータをCSV保存  
 
 ## 開発環境
-Windows 10 Home
-Python 3.9.4
+- Windows 10 Home
+- Python 3.9.4
+- VS Code 1.55.0
 
 ## 仮想環境の作成
 ```
